@@ -68,3 +68,5 @@ Revenue breakdown by Division & Channel
 Top 5 Customers & Products by Revenue
 
 Yearly Trend Analysis for Revenue, GM%, Net Profit %, and Market Share
+
+Power BI View: https://app.powerbi.com/groups/me/reports/dc8253ba-b95d-4302-a17a-89a470bf3bbd/50cb064561e58a293355?experience=power-bi
